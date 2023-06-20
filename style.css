@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #fc0909;
+    color: #ff0707;
+    padding: 20px;
+    text-align: center;
+}
+
+#video-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 800px;
+}
+
+
+
+#centered-heading {
+    text-align: center;
+
+   }
+
+   
+
+
+   #search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+  }
+  
+  #search-input {
+    padding: 10px 20px;
+    font-size: 30px;
+  }
+  
+  #search-results {
+    /* Add styling as per your design requirements */
+  }
